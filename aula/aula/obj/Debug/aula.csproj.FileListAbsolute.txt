@@ -1,0 +1,6 @@
+c:\users\318135918\documents\visual studio 2015\Projects\aula\aula\bin\Debug\aula.exe.config
+c:\users\318135918\documents\visual studio 2015\Projects\aula\aula\bin\Debug\aula.exe
+c:\users\318135918\documents\visual studio 2015\Projects\aula\aula\bin\Debug\aula.pdb
+c:\users\318135918\documents\visual studio 2015\Projects\aula\aula\obj\Debug\aula.csprojResolveAssemblyReference.cache
+c:\users\318135918\documents\visual studio 2015\Projects\aula\aula\obj\Debug\aula.exe
+c:\users\318135918\documents\visual studio 2015\Projects\aula\aula\obj\Debug\aula.pdb
